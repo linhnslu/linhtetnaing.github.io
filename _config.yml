@@ -11,5 +11,5 @@ defaults:
     values:
       layout: default
 
-logo: /assets/profile.png    # optional
+logo: /assets/profile.jpg    # optional
 show_downloads: false
